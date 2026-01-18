@@ -56,7 +56,7 @@ Experienced and motivated Full-Stack Web Developer with a strong foundation in m
 
 ## Professional Links
 
-- **Email:** [sujauddoulasohel352@gmail.com](mailto:sujauddoulasohel352@gmail.com)
+- **Email:** [mdsujauddoulasohel@gmail.com](mailto:mdsujauddoulasohel@gmail.com)
 - **LinkedIn:** [Md Sujauddoula Sohel](https://www.linkedin.com/in/sujauddoulasohel)
 - **GitHub:** [DevSohel32](https://github.com/DevSohel32)
 
