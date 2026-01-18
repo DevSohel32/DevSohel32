@@ -44,7 +44,7 @@ With a focus on **modern front-end frameworks** and **scalable back-end solution
 
 ### 🤝 Connect With Me  
 
-📧 **Email:** sujauddoula.devhub@gmail  
+📧 **Email:** sujauddoulasohel352@gmail  
 🔗 **LinkedIn:** [Md Sujauddoula Sohel](https://www.linkedin.com/in/sujauddoulasohel)  
 🌟 **GitHub:** [DevSohel32](https://github.com/DevSohel32)  
 
