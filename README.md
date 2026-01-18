@@ -11,6 +11,7 @@ Experienced and motivated Full-Stack Web Developer with a strong foundation in m
 **Current Status:**
 - Diploma in Computer Science, Bangladesh Institute of Information Technology
 - Industrial Training in Web Design & PHP with Laravel, PeopleNTech
+- Internship at [Arefin Digital](https://arefindigital.com/)
 - Programming Hero Graduate, Batch 9 (2024)
 
 ---
@@ -47,6 +48,7 @@ Experienced and motivated Full-Stack Web Developer with a strong foundation in m
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| **Symbol.effect.colorful** | Dynamic colorful effect system with advanced visual animations | JavaScript, CSS3, Creative Effects |
 | **Responsive Portfolio Website** | Professional portfolio showcasing web development skills | React.js, Tailwind CSS |
 | **E-commerce Platform** | Full-featured online store with payment processing | Laravel, MySQL, Authentication |
 | **Firebase Authentication System** | User management system with role-based access control | Firebase, JavaScript |
