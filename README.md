@@ -11,7 +11,7 @@ Experienced and motivated Full-Stack Web Developer with a strong foundation in m
 **Current Status:**
 - Diploma in Computer Science, Bangladesh Institute of Information Technology
 - Industrial Training in Web Design & PHP with Laravel, PeopleNTech
-- Internship at [Arefin Digital](https://arefindigital.com/)
+- Internship at [Kormozone Itl](https://kormozoneit.com/))
 - Programming Hero Graduate, Batch 9 (2024)
 
 ---
